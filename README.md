@@ -1,4 +1,4 @@
 # Digital-Marketing
 
 
-[embed](http://url/to/file:///C:/Users/Chae%20Kim/Documents/Projects/Digital%20Advertising/Dashboard%20pdf.pdf)[embed]
+![alt text](https://github.com/ckim309/Digital-Marketing/blob/main/Dashboard.png?raw=true)
